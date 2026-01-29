@@ -10,6 +10,9 @@ Projeto criado com o objetivo de estudo e prática de programação.
 
 - `/ping` — Teste de resposta
 - `/invite` — Convite do bot para outros servidores
+- `/avatar` — Pegar avatar de um usuário
+- `/banner` — Pegar Banner de um usuário
+- `/ban` — Banir um usuário no servidor
 
 ---
 

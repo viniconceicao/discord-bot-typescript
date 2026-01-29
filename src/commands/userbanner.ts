@@ -5,7 +5,7 @@ import {
 } from "discord.js";
 
 export const data = new SlashCommandBuilder()
-  .setName("userbanner")
+  .setName("banner")
   .setDescription("Exibe o banner de um usuário")
   .addUserOption(option =>
     option
